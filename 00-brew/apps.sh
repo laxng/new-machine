@@ -10,6 +10,7 @@ brew install --cask kitty \
   vlc \
   visual-studio-code \
   calibre \
+  libreoffice \
   openkey \
   rectangle \
   flux
