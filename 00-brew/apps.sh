@@ -13,6 +13,7 @@ brew install --cask kitty \
   libreoffice \
   openkey \
   rectangle \
+  amethyst \
   flux
 
 # Cask fonts
