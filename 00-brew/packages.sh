@@ -7,6 +7,7 @@ fi
 brew install --formula python \
   lua \
   pyenv \
+  mariadb \
   git \
   git-delta \
   lazygit \

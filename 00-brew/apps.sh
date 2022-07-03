@@ -9,6 +9,7 @@ brew install --cask kitty \
   firefox-nightly \
   vlc \
   visual-studio-code \
+  sequel-ace \
   calibre \
   libreoffice \
   openkey \
