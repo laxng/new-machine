@@ -13,7 +13,6 @@ brew install --cask kitty \
   calibre \
   libreoffice \
   openkey \
-  rectangle \
   amethyst \
   flux
 
