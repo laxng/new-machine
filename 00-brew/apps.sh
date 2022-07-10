@@ -11,7 +11,6 @@ brew install --cask kitty \
   visual-studio-code \
   sequel-ace \
   calibre \
-  libreoffice \
   spotify \
   openkey \
   amethyst \
