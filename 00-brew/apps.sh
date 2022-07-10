@@ -12,6 +12,7 @@ brew install --cask kitty \
   sequel-ace \
   calibre \
   libreoffice \
+  spotify \
   openkey \
   amethyst \
   flux
