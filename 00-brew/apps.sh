@@ -13,7 +13,7 @@ brew install --cask kitty \
   calibre \
   spotify \
   openkey \
-  amethyst \
+  rectangle \
   flux
 
 # Cask fonts
