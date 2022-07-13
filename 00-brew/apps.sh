@@ -14,6 +14,7 @@ brew install --cask kitty \
   spotify \
   openkey \
   rectangle \
+  monitorcontrol \
   flux
 
 # Cask fonts
